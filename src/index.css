@@ -1,0 +1,17 @@
+* {
+  margin: 10px;
+}
+button {
+  width: 70px;
+  height: 30px;
+  border-color: rgb(38, 38, 126);
+  background-color: rgb(43, 131, 131);
+  color: white;
+  border-radius: 4px;
+}
+input {
+  width: 300px;
+  height: 29px;
+  border-color: blue;
+  border-radius: 4px;
+}
